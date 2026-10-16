@@ -16,6 +16,8 @@ Direct link to the newest APK (always up to date):
 4. When the download finishes, choose **Install**.
    The first time, Android asks you to allow Downloader to install apps:
    choose **Settings**, turn on **Allow from this source**, press **Back**, then **Install**.
+   - If **Google Play Protect** says *"App blocked to protect your device"*, select **More details**,
+     then **Install anyway**. It shows this for any app that isn't from the Play Store.
 5. Open **Falle TV** from your apps. On the first screen, sign in to WebShare or choose *Skip for now*.
 
 You can delete the downloaded file in Downloader afterwards.
@@ -23,7 +25,10 @@ You can delete the downloaded file in Downloader afterwards.
 ## Updates
 
 Falle TV checks this page when it starts and offers new versions itself ("Update now").
-The first update asks once to allow Falle TV to install apps; after that, updating is one click.
+The first update asks once to allow Falle TV to install apps (Settings opens: turn it on, press Back).
+Android then asks *"Do you want to update this app?"*: select **Update** (on some TVs *Cancel* is
+highlighted first, so press Left). Play Protect may show the same warning as above: **More details →
+Install anyway**.
 You can also check manually in **Settings → About → Check for updates**.
 
 ## Verifying a download
