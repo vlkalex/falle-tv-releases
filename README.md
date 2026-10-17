@@ -42,3 +42,10 @@ Every release includes `falle-tv.apk.sha256`. All releases are signed with the s
     SHA-256 certificate: e1db7c9f3ae16e87ecc3281d7beb6520773ef4ecb053029cc5447b45af65d8e4
 
 Android only installs an update over an existing Falle TV if it is signed with this same key.
+
+## Troubleshooting
+
+**"App not installed — package conflicts with an existing package"**
+An older Falle TV signed with a different key is still on the TV. If the TV has several user
+profiles, it may be installed in another profile even after you uninstalled it in yours: switch to
+each profile and uninstall Falle TV there (Settings → Apps → Falle TV → Uninstall), then install again.
