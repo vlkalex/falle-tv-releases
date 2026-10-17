@@ -4,20 +4,24 @@ Downloads for **Falle TV**, a movie & series app for Android TV / Google TV.
 This repository only hosts the installable app; there is no source code here.
 
 **Latest version:** see [Releases](https://github.com/vlkalex/falle-tv-releases/releases/latest).
-Direct link to the newest APK (always up to date):
 
-    https://github.com/vlkalex/falle-tv-releases/releases/latest/download/falle-tv.apk
+Short install address (always the newest version) — type this on the TV:
+
+    falletv.alexvlk.com
+
+It redirects to https://github.com/vlkalex/falle-tv-releases/releases/latest/download/falle-tv.apk
 
 ## Install on your TV (no developer mode needed)
 
 1. On the TV, open the **Google Play Store** and install **Downloader** (by AFTVnews).
 2. Open Downloader. When asked, allow it to access files.
-3. In Downloader's address box, enter the link above (or the short code you were given) and press **Go**.
+3. In Downloader's address box, type **falletv.alexvlk.com** and press **Go**.
 4. When the download finishes, choose **Install**.
    The first time, Android asks you to allow Downloader to install apps:
    choose **Settings**, turn on **Allow from this source**, press **Back**, then **Install**.
    - If **Google Play Protect** says *"App blocked to protect your device"*, select **More details**,
      then **Install anyway**. It shows this for any app that isn't from the Play Store.
+   When it finishes, choose **Done** (not Open); Downloader then offers to delete the file — choose **Delete**.
 5. Open **Falle TV** from your apps. On the first screen, sign in to WebShare or choose *Skip for now*.
 
 You can delete the downloaded file in Downloader afterwards.
